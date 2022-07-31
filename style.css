@@ -1,0 +1,128 @@
+
+.container-header {
+    background: #fff;
+    /* position: sticky;
+    z-index: ; */
+}
+a{
+    text-decoration: none !important;
+}
+body{
+    background: #fafafa;
+}
+.search_area {
+    justify-content: center;
+    height: 41px;
+    align-items: center;
+    width: 270px;
+    border: none;
+    background: #dddddd7d;
+    padding: 1px 12px;
+    border-radius: 5px;
+}
+.search_area i {
+    color: #999999;
+    font-size: 15px;
+}
+.search_area .form-control{
+    width: 270px;
+    border: none;
+    background: #dddddd00;
+}
+.col-md-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    display: flex;
+    align-items: center;
+}
+.form-control:focus {
+    /* color: #495057; */
+    /* background-color: #fff; */
+    /* border-color: #80bdff; */
+    /* outline: 0; */
+    box-shadow: none;
+}
+.col-md-4.socai_icon a {
+    margin: 0 8px;
+}
+body{
+    
+}
+.ful-width{
+    /* position: sticky;
+    top: 0; */
+}
+/* instram body side bar */
+.admin_details img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 14px;
+}
+.sidebar img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 14px;
+}
+.admin_info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    align-items: center;
+}
+.img_text .span-2 {
+    color: #bdbdbd;
+    font-size: 14px;
+}
+.img_text .span-3 {
+    color: #a7a6a6;
+    font-size: 14px;
+    font-weight: 500;
+}
+.ins_body {
+    margin-top: 21px;
+}
+.sidebar .span-2 {
+    font-size: 12px;
+}
+.card-header, .card-footer{
+    background: #fff;
+}
+.admin_details.d-flex .t-bold {
+    font-weight: bold;
+}
+.coment_icon img{
+        width: 25px;
+}
+.coment_icon img {
+    height: 22px;
+    width: 22px;
+}
+.post_date{
+    color: #bdbdbd;
+    font-size: 14px;
+    margin: 7px 0;
+}
+.write_comment img {
+    width: 29px;
+    height: 29px;
+}
+.write_comment input {
+    border: none;
+    width: 370px;
+}
+.write_comment input:focus{
+    outline: none;
+}
+.bg-white {
+    background-color: #fff!important;
+    margin-bottom: 35px;
+}
